@@ -1,0 +1,7 @@
+export type Brand = {
+  id: number;
+  name: string;
+  image: string;
+  Link: string;
+
+};
